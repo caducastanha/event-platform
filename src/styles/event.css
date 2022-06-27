@@ -1,0 +1,17 @@
+/* HEADER */
+.event-header {
+    @apply w-full py-5 flex items-center justify-center bg-gray-700 border-b border-gray-600;
+}
+
+/* LESSON */
+.event-lesson-title {
+    @apply text-gray-300
+}
+
+.event-lesson-card {
+    @apply rounded border border-gray-500 p-4 mt-2
+}
+
+.event-lesson-card-header {
+    @apply flex items-center justify-between
+}
